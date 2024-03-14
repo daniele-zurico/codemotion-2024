@@ -1,0 +1,102 @@
+html,body{
+    height: 100vh;
+}
+form {
+    height: 100vh;
+    width: 355px;
+	margin: auto;
+	padding: 30px;
+	display: flex;
+	gap: 17px;
+	flex-direction: column;
+	justify-content: center;
+}
+:root{
+    --dcx-color-text-body: red;
+    /* orange */
+    --dcx-border-width-action: 2px;
+    --dcx-border-radius-action: 6px;
+
+    --dcx-color-text-heading-level_1: #F1662B;
+    --dcx-font-family-highlight_body: 'Fredoka One';
+
+    --dcx-spacing-y-formcontrol: 20px;
+    --dcx-border-color-formcontrol: #D2D2D2;
+    --dcx-border-radius-formcontrol: 4px;
+
+    --dcx-color-text-link: #F1662B;
+    --dcx-color-text-link-visited:	#F1662B;
+    --dcx-color-text-link-active:	#F1452B;
+    --dcx-color-text-link-hover: #f1452b;
+
+    --dcx-spacing-x-action: 20px;
+    --dcx-border-color-action-default-primary: #F1662B;
+    --dcx-color-background-action-default-primary: #F1662B;
+    --dcx-color-background-action-active-primary: #F1662B;
+    --dcx-color-background-action-hover-primary: #F1662B;
+    --dcx-color-background-action-focus-primary: #F1662B;
+    --dcx-border-color-action-hover-primary: #F1662B;
+    --dcx-color-background-action-hover-primary: #F1662B;
+    --dcx-color-text-action-default-primary: white; 
+    --dcx-color-text-action-hover-primary: white;
+    --dcx-color-text-action-active-primary: white;
+    --dcx-color-text-action-focus-primary: white;
+    --dcx-color-text-link-active: #d76534;
+    --dcx-color-outline-formcontrol: #d76534;
+
+    /* blue 
+    --dcx-color-text-formcontrol-filled: #5E8BEA;
+    --dcx-color-text-formcontrol_hint:#5E8BEA;
+    --dcx-border-color-formcontrol: #5E8BEA;
+    --dcx-border-radius-formcontrol-floating: 6px;
+    --dcx-color-background-formcontrol_label-floating-filled: #5E8BEA;
+    --dcx-color-text-formcontrol: #5E8BEA;
+    --dcx-color-textformcontrol_label--floating: #5E8BEA;
+    --dcx-border-width-formcontrol_prefix: 0;
+    --dcx-border-width-formcontrol_suffix: 0;
+    --dcx-color-outline-formcontrol: #5E8BEA;
+    --dcx-font-action_label-line-height: 25px;
+    --dcx-color-text-link:	#5E8BEA;
+    --dcx-font-size-body:	16px;
+    --dcx-color-text-link-visited:	#5E8BEA;
+    --dcx-color-text-link-active:	#5E8BEA;
+    --dcx-color-text-link-hover:	#5E8BEA;
+    --dcx-font-weight-body: 400;
+    --dcx-border-color-action-default-tertiary: #5E8BEA;
+    --dcx-color-text-action-default-tertiary:#5E8BEA;
+    --dcx-color-background-action-hover-tertiary: #9e9e9e0f;
+    --dcx-border-color-action-hover-tertiary: #5E8BEA;
+    --dcx-color-text-action-hover-tertiary: #5E8BEA;*/
+
+    /* green
+    --dcx-border-width-action: 2px;
+    --dcx-border-radius-action: 30px;
+
+    --dcx-color-text-heading-level_1: #1F838E;
+    --dcx-font-family-highlight_body: 'Fredoka One';
+
+    --dcx-spacing-y-formcontrol: 20px;
+    --dcx-border-color-formcontrol: #D2D2D2;
+    --dcx-border-radius-formcontrol: 30px;
+
+    --dcx-color-text-link: #1F838E;
+    --dcx-color-text-link-visited:	#14558d;
+    --dcx-color-text-link-active:	#14558d;
+    --dcx-color-text-link-hover: #14558d;
+
+    --dcx-spacing-x-action: 42%;
+    --dcx-border-color-action-default-primary: #1F838E;
+    --dcx-color-background-action-default-primary: #1F838E;
+    --dcx-color-background-action-active-primary: #1F838E;
+    --dcx-color-background-action-hover-primary: #1F838E;
+    --dcx-color-background-action-focus-primary: #1F838E;
+    --dcx-border-color-action-hover-primary: #1e767f;
+    --dcx-color-background-action-hover-primary: #1e767f;
+    --dcx-color-text-action-default-primary: white; 
+    --dcx-color-text-action-hover-primary: white;
+    --dcx-color-text-action-active-primary: white;
+    --dcx-color-text-action-focus-primary: white;
+    --dcx-color-text-link-active: #1e767f;
+    --dcx-color-outline-formcontrol: #1e767f;
+    --dcx-spacing-x-action: 0; */
+}
